@@ -1,2 +1,2 @@
 # figured-bass
-An algorithm that uses machine learning to harmonise a figured bass.
+A genetic algorithm that finds the best harmonisation to a figured bass.
